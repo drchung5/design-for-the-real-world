@@ -19,6 +19,7 @@
   </properties>
 
   <modules>
+    <module>code-quality</module>
     <module>functional-programming</module>
     <module>reactive-programming</module>
   </modules>
