@@ -19,6 +19,7 @@
     <module>interfaces-custom</module>
     <module>sort</module>
     <module>sort-lambda</module>
+    <module>closures</module>
   </modules>
 
 </project>
